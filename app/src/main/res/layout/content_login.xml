@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="joslabs.a4gcapitalapp.reglogin.Login"
+    tools:showIn="@layout/activity_login">
+<android.support.design.widget.TextInputLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/edtlayera">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtname"/>
+</android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtlayerb"
+        android:layout_below="@id/edtlayera">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/edtidno"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/layerlogs"
+        android:layout_below="@id/edtlayerb">
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:background="@drawable/roundbuttons"
+            android:layout_weight=".50"
+            android:text="Register"
+            android:textColor="@color/whiteColor"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            style="@style/Base.TextAppearance.AppCompat.Body1"
+            android:id="@+id/btnreg"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="3dp"
+            />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:background="@drawable/roundbuttons"
+            android:layout_weight=".50"
+            android:text="Login"
+            android:textColor="@color/whiteColor"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            style="@style/Base.TextAppearance.AppCompat.Body1"
+            android:id="@+id/btnlog"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:layout_toRightOf="@id/btnreg"
+            />
+    </LinearLayout>
+</RelativeLayout>

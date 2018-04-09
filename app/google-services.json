@@ -1,0 +1,425 @@
+{
+  "project_info": {
+    "project_number": "339900841018",
+    "firebase_url": "https://brucecompany-dca0f.firebaseio.com",
+    "project_id": "brucecompany-dca0f",
+    "storage_bucket": "brucecompany-dca0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339900841018:android:b606cd4436489ae6",
+        "android_client_info": {
+          "package_name": "com.myduka.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ybxsLmo37hzcbYwxsdsU3-pT2qi7U_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339900841018:android:9b270f9a00586603",
+        "android_client_info": {
+          "package_name": "joslabs.a4gcapital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339900841018-c6o2jodq8njsu60er83lkp698mcbs3ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joslabs.a4gcapital",
+            "certificate_hash": "24cfc647f1e7d05922e107a015653323bf481b52"
+          }
+        },
+        {
+          "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ybxsLmo37hzcbYwxsdsU3-pT2qi7U_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339900841018:android:5c0634ecb600123a",
+        "android_client_info": {
+          "package_name": "joslabs.a4gcapitalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339900841018-f7vus2s9uksgtmirk46qa424n60jtbqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joslabs.a4gcapitalapp",
+            "certificate_hash": "24cfc647f1e7d05922e107a015653323bf481b52"
+          }
+        },
+        {
+          "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ybxsLmo37hzcbYwxsdsU3-pT2qi7U_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339900841018:android:5d81de5aab14150b",
+        "android_client_info": {
+          "package_name": "joslabs.apppipa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339900841018-vktn0i9h9djlg8100ss2vvud5a7babgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joslabs.apppipa",
+            "certificate_hash": "24cfc647f1e7d05922e107a015653323bf481b52"
+          }
+        },
+        {
+          "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ybxsLmo37hzcbYwxsdsU3-pT2qi7U_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339900841018:android:adabd851044f775a",
+        "android_client_info": {
+          "package_name": "joslabs.brucecar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339900841018-ea0o72noic3qchl988mgtq334mj4s5f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joslabs.brucecar",
+            "certificate_hash": "24cfc647f1e7d05922e107a015653323bf481b52"
+          }
+        },
+        {
+          "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ybxsLmo37hzcbYwxsdsU3-pT2qi7U_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339900841018:android:3a4069e740c3af37",
+        "android_client_info": {
+          "package_name": "joslabs.brucetrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ybxsLmo37hzcbYwxsdsU3-pT2qi7U_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339900841018:android:ad3388a58e1063c8",
+        "android_client_info": {
+          "package_name": "joslabs.companyx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339900841018-mh7cv4icifu98qrni62ligvj29h2oue9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joslabs.companyx",
+            "certificate_hash": "24cfc647f1e7d05922e107a015653323bf481b52"
+          }
+        },
+        {
+          "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ybxsLmo37hzcbYwxsdsU3-pT2qi7U_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339900841018:android:fe2b7d8cae037c4c",
+        "android_client_info": {
+          "package_name": "joslabs.taka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339900841018-2v2v3nnt4du9581k0sttiueqqcu8g75n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joslabs.taka",
+            "certificate_hash": "24cfc647f1e7d05922e107a015653323bf481b52"
+          }
+        },
+        {
+          "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ybxsLmo37hzcbYwxsdsU3-pT2qi7U_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339900841018:android:94f773c3c71d7107",
+        "android_client_info": {
+          "package_name": "joslabs.takaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339900841018-l5cujoa7im2se97407fu0lrmbt256n35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joslabs.takaapp",
+            "certificate_hash": "24cfc647f1e7d05922e107a015653323bf481b52"
+          }
+        },
+        {
+          "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ybxsLmo37hzcbYwxsdsU3-pT2qi7U_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339900841018:android:40542e866c40359f",
+        "android_client_info": {
+          "package_name": "joslabs.takadelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339900841018-825a70t55ivj16daf23pifgc0c1r8uic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joslabs.takadelivery",
+            "certificate_hash": "24cfc647f1e7d05922e107a015653323bf481b52"
+          }
+        },
+        {
+          "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ybxsLmo37hzcbYwxsdsU3-pT2qi7U_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339900841018-clrghb60kaftdtajonb4uahrk1t30g0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

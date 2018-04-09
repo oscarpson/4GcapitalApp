@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+<android.support.v7.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:elevation="@dimen/card_elevation"
+    android:layout_margin="@dimen/textview_margin">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="@dimen/Profile_size"
+        android:layout_height="@dimen/Profile_size"
+        android:id="@+id/imgprofile"
+        android:src="@drawable/babycare"
+        android:layout_marginRight="@dimen/profile_margin"
+        android:layout_alignParentLeft="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="Peter Muigai"
+            android:layout_toRightOf="@id/imgprofile"
+            android:id="@+id/txtusername"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="idno"
+            android:id="@+id/txtidno"
+            android:layout_toRightOf="@id/imgprofile"
+            android:layout_below="@id/txtusername"
+           />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="locaton"
+            android:id="@+id/txtlocation"
+            android:layout_toRightOf="@id/imgprofile"
+            android:layout_below="@id/txtidno"
+          android:layout_alignParentRight="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dob"
+            android:id="@+id/txtDob"
+            android:layout_toRightOf="@id/imgprofile"
+            android:layout_below="@id/txtlocation"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="station"
+            android:id="@+id/txtstation"
+            android:layout_below="@id/txtDob"
+            android:layout_toRightOf="@id/imgprofile"/>
+        <ImageView
+            android:layout_width="@dimen/imageButtons_size"
+            android:layout_height="@dimen/imageButtons_size"
+            android:src="@drawable/ic_next"
+            android:layout_centerVertical="true"
+            android:layout_below="@id/txtidno"
+            android:layout_alignParentRight="true"
+            android:id="@+id/imgnext"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/imageButtons_size"
+            android:layout_toLeftOf="@id/imgnext"
+            android:layout_below="@id/txtidno"
+            android:gravity="center_vertical"
+            android:text="@string/viewlocation"/>
+        <ImageView
+            android:layout_width="@dimen/imageButtons_size"
+            android:layout_height="@dimen/registerimage"
+            android:layout_below="@id/txtDob"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/ic_delete"/>
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
+</RelativeLayout>

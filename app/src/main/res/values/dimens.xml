@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="textsize">14sp</dimen>
+    <dimen name="profile_margin">4dp</dimen>
+    <dimen name="Profile_size">80dp</dimen>
+    <dimen name="registerimage">40dp</dimen>
+    <dimen name="textview_margin">3dp</dimen>
+    <dimen name="imageButtons_size">30dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+    <dimen name="spinner_margin">5dp</dimen>
+    <dimen name="mapheight">200dp</dimen>
+</resources>
